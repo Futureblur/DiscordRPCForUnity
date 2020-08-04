@@ -3,7 +3,7 @@ This is a Discord Rich Presence Plugin for Unity Engine.
 
 Follow these simple steps to set everything up correctly:
 
-1. Drag the 'DiscordRPCForUnity' package file into Unity (not the entire folder!) or click on Assets > Import Package > Custom Package... and choose the downloaded package file.
+1. Drag the 'DiscordRPCForUnity' package file into Unity (not the entire folder!) or click on Assets > Import Package > Custom Package... and choose the downloaded unity package.
 2. Click Window > Discord RPC to open the Editor Window. Do not close this window, otherwise it won't work correctly. You can dock it where you want.
 3. Your console should print "Initializing Discord RPC..." and "Successfully initialized Discord RPC.".
    If you get an error, reimport all your assets. I do not recommend changing ANYTHING inside the folders as it will cause issues.
