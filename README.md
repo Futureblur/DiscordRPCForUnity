@@ -7,7 +7,7 @@ Follow these simple steps to set everything up correctly:
 2. Click Window > Discord RPC to open the Editor Window. Do not close this window, otherwise it won't work correctly. You can dock it where you want.
 3. Your console should print "Initializing Discord RPC..." and "Successfully initialized Discord RPC.".
    If you get an error, reimport all your assets. I do not recommend changing ANYTHING inside the folders as it will cause issues.
-4. And that's it! You can now open Discord and it say "Playing Unity Editor".
+4. And that's it! You can now open Discord and it will say "Playing Unity Editor".
 
 
 Features:
