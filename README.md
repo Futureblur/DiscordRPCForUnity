@@ -14,11 +14,11 @@ Features:
 - Shows project name
 - Shows active scene
 - Shows timestamp
-- Shows the Editor version
+- Shows Editor version
 
 
 You can disable console logging if you want, simply click on SHOW MORE and then TURN OFF.
-If you are using PlayerPrefs, don't name you key '$DISCORD_RICH_PRESENCE_SHOULD_LOG_MESSAGES_INT$' as it will conflict with the plugin.
+If you are using PlayerPrefs, don't name your key '$DISCORD_RICH_PRESENCE_SHOULD_LOG_MESSAGES_INT$' as it will conflict with the plugin.
 
 
 If you have any issues or want to leave some feedback, please contact me:
