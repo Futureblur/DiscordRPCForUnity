@@ -23,8 +23,9 @@ If you are using PlayerPrefs, don't name your key '$DISCORD_RICH_PRESENCE_SHOULD
 
 If you have any issues or want to leave some feedback, please contact me:
 
-GitHub: www.github.com/FutureStyleGames
-Email: futurestylegames@gmail.com
-Discord: Mr. Gamer#9395
+GitHub: https://github.com/Futureblur
+Website: https://futureblur.com
+Email: itsfutureblur@gmail.com
+Discord: Futureblur#9395
 
 Have fun :)
