@@ -1,6 +1,8 @@
 # DiscordRPCForUnity
 This is a Discord Rich Presence Plugin for Unity Engine. 
 
+⚠ **Disclaimer:** This package is known to have some bugs and has not been tested to work with newer versions of Unity (above 2019). Use at your own risk.
+
 Follow these simple steps to set everything up correctly:
 
 1. Drag the 'DiscordRPCForUnity' unity package file into Unity or click on Assets > Import Package > Custom Package... and choose the downloaded unity package.
