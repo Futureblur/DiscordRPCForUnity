@@ -27,6 +27,6 @@ If you have any issues or want to leave some feedback, please contact me:
 
 GitHub: https://github.com/Futureblur <br>
 Website: https://futureblur.com <br>
-Discord: Futureblur#9395 <br>
+Discord: Futureblur (#9395) <br>
 
 Have fun :)
